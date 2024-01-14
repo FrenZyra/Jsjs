@@ -1,0 +1,116 @@
+⫹⫺ ╳╶╼╶╶╶╶┈ ⎝   𝗣𝗘𝗡𝗧𝗜𝗡𝗚   ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
+
+              ╔┓┏╦━━╦┓╔┓╔━━╗╔╗
+              ║┗┛║┗━╣┃║┃║╯╰║║║
+              ║┏┓║┏━╣┗╣┗╣╰╯║╠╣
+              ╚┛┗╩━━╩━╩━╩━━╝╚╝
+
+Barang Siap Yang Dengan Sengaja Memperjual Belikan Atau Mengedarkan Script Tanpa Seizin Dari Pemilik Akan Dikenakan Copyright Dengan Denda Paling Banyak Sebesar 350K...
+(Jika ada yang melihat seseorang mengedarkan/menjual script ini segera laporkan kepada Frenzy, Anda akan mendapatkan kejutan hadiah)
+
+- Frenzy open jasa (edit sc, buat sc, add fitur, fix sc, panel run, akun premium, etc)
+- Males ngedit sc? sini Frenzy editin cuma 5K aja hehe^^
+- Panel running bot 24/7 Jam? sini sewa panel Frenzy aja^^
+- Script tersebar? Reupload tanpa izin? lapor ke Frenzy^^
+- Giveaway panel/sc? join group Frenzy aja
+
+• Jangan ngaku/rename habis habisan script ini dengan iming" kalian jika belum menambahkan ±5 fitur kedalam script ini!
+• Jangan menipu atas apa yang kalian perbuat 
+
+📮 S&K
+1. Jangan diperjual belikan Script ini
+2. Sebelum pakai jangan lupa kasih star 🌟
+3. Follow Github !
+4. Jangan salah gunakan script ini!
+5. Jangan lupa Subscribe Youtube @SpaceBackrooms
+6. Jika terdapat error hubungi Frenzy Development 
+//=================================================//
+
+
+
+
+
+⫹⫺ ╳╶╼╶╶╶╶┈ ⎝   𝗔𝗕𝗢𝗨𝗧   ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
+
+❒ Session : frenzy
+❒ Edit Owner : owner.json
+❒ Rename Files : Frenzy.js
+❒ Reupload? : Tag YT @FrenzyEmpire303
+❒ Credits : Bagian (TqTo)
+❒ Language : Bahasa Indonesia [ID]
+❒ Dibuat Pada : 23/10/23 / Based On Indonesian
+❒ Baileys : Adiwajshing | Whiskey Sockets
+❒ Script Version : [1.2] NEW!
+❒ DataBase Of : 45/3000+
+❒ Running : Pterodactyl | Termux | Replit | Heroku
+
+//=================================================//
+
+
+
+
+
+⫹⫺ ╳╶╼╶╶╶╶┈ ⎝   𝗕𝗜𝗚 𝗧𝗤 𝗧𝗢   ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
+
+• ALLAH SWT
+• Frenzy Empire          (Development)
+• AdiWajshing            (Teras Module)
+• Whiskey Sockets       (Penyedia Module)
+• Hisoka Morou           (Base Script)
+• Sansekai                (Recoder Script)
+
+⿻ Sansekai              (https://github.com/Sansekai)
+⿻ Dika Ardnt            (https://github.com/DikaArdnt)
+⿻ Frenzy Empire         (https://github.com/FrenzyEmpire)
+⿻ AdiWajshing           (https://github.com/AdiWajshing)
+⿻ Whiskey Sockets      (https://github.com/WhiskeySockets)
+
+//=================================================//
+
+
+
+
+
+⫹⫺ ╳╶╼╶╶╶╶┈ ⎝   𝗧𝗘𝗥𝗠𝗨𝗫   ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
+
+⫹ TERMUX USER ⫺
+apt update
+apt upgrade
+pkg update -y && pkg upgrade -y
+pkg install libwebp -y
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget -y
+pkg install imagemagick -y
+termux-setup-storage
+cd /sdcard
+cd (FileName)
+yarn install
+npm start
+- [For 24/7 Activation] - 
+npm i -g pm2 && pm2 start Start.js && pm2 save && pm2 logs
+
+
+
+⫹ TERMUX WITH UNBUTU ⫺
+apt update && apt full-upgrade
+apt install wget curl git proot-distro
+proot-distro install ubuntu
+echo "proot-distro login ubuntu" > $PREFIX/bin/ubuntu
+ubuntu
+
+
+
+⫹ FOR WINDOWS/VPS/RDP USER ⫺
+* Download And Install Git (https://git-scm.com/downloads)
+* Download And Install NodeJS (https://nodejs.org/en/download)
+* Download And Install FFmpeg (https://ffmpeg.org/download.html)
+* Download And Install ImageMagick(https://imagemagick.org/script/download.php)
+
+git clone https://github.com/FrenzyEmpire/AssistantBOT
+cd AssistantBOT
+npm install
+npm update
+
+//=================================================//

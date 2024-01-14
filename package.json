@@ -1,0 +1,56 @@
+{
+"name": "𝙵𝚛𝚎𝚗𝚉𝚢𝚛𝚊-𝙱𝙾𝚃 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴",
+"version": "5.0",
+"description": "𝙵𝚛𝚎𝚗𝚉𝚢𝚛𝚊 𝙱𝚎𝚜𝚝 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝙱𝚘𝚝",
+"main": "Start.js",
+"type": "commonjs",
+"scripts": {
+"start": "node Start.js"
+},
+"keywords": [
+"termux",
+"whatsapp-openai",
+"whatsapp-openai",
+"whatsapp-bot",
+"whatsapp-baileys",
+"baileys-md",
+"bot-wa",
+"bot-md",
+"whatsapp-multi-device"
+],
+"base": "https://github.com/resahdevv/Push-Kontak",
+"author": "𝙵𝚛𝚎𝚗𝚣𝚢",
+"license": "MIT",
+"dependencies": {
+"@adiwajshing/baileys": "github:WhiskeySockets/Baileys",
+"@adiwajshing/keyed-db": "^0.2.4",
+"@hapi/boom": "^10.0.0",
+"awesome-phonenumber": "^2.64.0",
+"axios": "^1.3.4",
+"chalk": "^4.1.2",
+"crypto": "^1.0.1",
+"figlet": "^1.5.2",
+"fs": "0.0.1-security",
+"lodash": "^4.17.21",
+"fluent-ffmpeg": "^2.1.2",
+"jimp": "^0.16.13",
+"link-preview-js": "^3.0.5",
+"openai": "^3.2.1",
+"pino": "^7.0.5",
+"qrcode-terminal": "^0.12.0",
+"util": "^0.12.4",
+"yarn": "^1.22.21"
+},
+"directories": {
+"lib": "lib",
+"src": "src"
+},
+"repository": {
+"type": "git",
+"url": "https://github.com/resahdevv/Push-Kontak.git"
+},
+"bugs": {
+"url": "https://github.com/resahdevv/Push-Kontak/issues"
+},
+"homepage": "https://github.com/resahdevv/Push-Kontak#readme"
+}
